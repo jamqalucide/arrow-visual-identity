@@ -25,3 +25,5 @@ no kafka complexity. no rabbitmq config hell. just works.
 # PR Merge: 2025-10-17 - fix/merge-7016
 
 # PR Merge: 2025-10-17 - feature/merge-3672
+
+# PR Update: 2025-10-17 - fix/update-3126
