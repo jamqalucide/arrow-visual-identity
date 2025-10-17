@@ -61,3 +61,5 @@ Generated documentation for arrow-visual-identity.
 # PR Merge: 2025-10-17 - docs/merge-1894
 
 # PR Merge: 2025-10-17 - docs/merge-7255
+
+# PR Update: 2025-10-17 - enhancement/update-5897
